@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XEmsvx+HShaU8R9XgmwUrbmLAdqfsMeLe9ByR6b+l4EStceuJYy7fc0amE5IDtiKjX5XpCXkSVtKGeiG1x+8WA==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\coaspharma-labs\\WooCommerce.NET\\WooCommerce.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
