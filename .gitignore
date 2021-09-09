@@ -1,0 +1,12 @@
+*.nupkg
+*.json
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets
+*.nuspec
+*.cs
+*.txt
+*.v2
+*.suo
